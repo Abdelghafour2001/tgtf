@@ -1,7 +1,8 @@
 # Attendance App with python
---------------------
+----------
 <img src="./Attendance app/1.png" alt="index1"/>
--------------------- <br/>
+---------- 
+
 ## Screen shots 
 1. Registration form
  <img src="./Attendance app/2.png" alt="index2" height="300px"/><br/>
